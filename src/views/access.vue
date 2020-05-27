@@ -1,6 +1,6 @@
 <template>
 <div>
-<department id="department" :name="name">
+<department id="department" >
 </department>
 <visitor id="visitor">
 </visitor>
